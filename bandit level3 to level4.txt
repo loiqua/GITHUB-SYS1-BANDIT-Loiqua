@@ -1,0 +1,8 @@
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+passwords:aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+cd inhere
+ls
+ls -a
+cat .hidden
+passwords:2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+exit

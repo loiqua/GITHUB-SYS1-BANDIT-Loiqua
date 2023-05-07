@@ -1,0 +1,5 @@
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+passwords:z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99
+grep millionth data.txt
+passwords:TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+exit

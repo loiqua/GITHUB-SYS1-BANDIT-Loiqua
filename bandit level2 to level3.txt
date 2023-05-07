@@ -1,0 +1,6 @@
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+passwords:passwords:rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+ls -a
+cat 'spaces in this filename'
+passwords:aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+exit
